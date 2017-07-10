@@ -1,0 +1,19 @@
+.ibox {
+  -webkit-box-shadow: 0 0 6px #d5d5d5;
+  -moz-box-shadow: 0 0 6px #d5d5d5;
+  box-shadow: 0 0 6px #d5d5d5;
+}
+.ibox-title{
+  border-color: #adcbe0 !important;
+}
+.pagination .active>span{
+  background-color: #adcbe0 !important;
+}
+.tab-pane {
+  padding-top: 10px !important;
+}
+
+.modal-content {
+  border: none !important;
+  border-radius: 0 !important;
+}
